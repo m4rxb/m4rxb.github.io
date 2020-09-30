@@ -2,7 +2,9 @@
 
 ### Sobre mí
 
-Me llamo Mariano, tengo una gran pasión por el mundo de la ciberseguridad tanto blue team como red team, comencé con el pentesting cuando tuve que desarrollar mi proyecto de fin de grado (ASIR) y decidí realizarlo sobre Hack The Box. En cuanto a mi perfil profesional, he trabajado en el desarrollo de varias paginas web (boxocolate.com y globalproteccion.es), he trabajado como administrador de sistemas (servidores, equipos clientes, linux, wserver) y servicio de atención técnica de clientes. Actualmente trabajo en una empresa de Murcia (de donde resido) llamada Secify en la cual soy el encargado de llevar el SIEM de la empresa y la monitorización y revisión de reglas del firewall así como servicios a los clientes de informes y ticketing.
+Me llamo Mariano, tengo una gran pasión por el mundo de la ciberseguridad tanto blue team como red team, comencé con el pentesting cuando tuve que desarrollar mi proyecto de fin de grado (ASIR) y decidí realizarlo sobre Hack The Box. 
+
+En cuanto a mi perfil profesional, he trabajado en el desarrollo de varias paginas web (boxocolate.com y globalproteccion.es), he trabajado como administrador de sistemas (servidores, equipos clientes, linux, wserver) y servicio de atención técnica de clientes. Actualmente trabajo en una empresa de Murcia (de donde resido) llamada Secify en la cual soy el encargado de llevar el SIEM de la empresa y la monitorización y revisión de reglas del firewall así como servicios a los clientes de informes y ticketing.
 
 ```markdown
 Syntax highlighted code block
