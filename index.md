@@ -1,5 +1,5 @@
 ## Bienvenido
-
+___
 ### Sobre mí
 
 Me llamo Mariano, tengo una gran pasión por el mundo de la ciberseguridad tanto blue team como red team, comencé con el pentesting cuando tuve que desarrollar mi proyecto de fin de grado (ASIR) y decidí realizarlo sobre Hack The Box. 
@@ -10,8 +10,8 @@ Actualmente trabajo en una empresa de Murcia (de donde resido) llamada Secify co
 
 ### ¿Qué he estudiado?
 
-- Técnico Superior en Administración de Sistemas Informáticos en Red
-- Técnico en Sistemas Microinformáticos y Redes
+-  Técnico Superior en Administración de Sistemas Informáticos en Red
+-  Técnico en Sistemas Microinformáticos y Redes
 
 ```markdown
 Syntax highlighted code block
