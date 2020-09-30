@@ -1,5 +1,5 @@
 ## Bienvenido
-___
+
 ### Sobre mí
 
 Me llamo Mariano, tengo una gran pasión por el mundo de la ciberseguridad tanto blue team como red team, comencé con el pentesting cuando tuve que desarrollar mi proyecto de fin de grado (ASIR) y decidí realizarlo sobre Hack The Box. 
